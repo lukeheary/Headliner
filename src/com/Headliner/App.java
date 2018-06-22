@@ -3,8 +3,6 @@ package com.Headliner;
 // Creator: Luke Heary
 // Date: 6/22/18
 
-import com.Headliner.service.Crawler;
-
 import java.io.File;
 import java.util.Scanner;
 
